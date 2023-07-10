@@ -1,0 +1,40 @@
+﻿#foto {
+    width: 250px;
+    margin: 4rem 2rem;
+    border-radius: 50%
+}
+
+.seccion-descripcion {
+    margin: 3rem 0 5rem 0
+}
+.seccion-bienvenida {
+    background-color: #b8a6ce;
+    margin: 2rem 0 5rem 0;
+}
+
+.seccion-bienvenida h1{
+    font-family:sans-serif;
+    margin-bottom:1rem;
+    margin-top:3rem;
+}
+
+.seccion-bienvenida p {
+        font-family: sans-serif;
+        line-height: 1.5;
+        font-size: 1.25rem;
+}
+
+#ilustrativa {
+    width: 400px;
+    margin: -3rem 0-5rem ;
+}
+
+.cabecera {
+    font-weight: bold;
+    color: #6E07F3 !important;
+}
+
+.habilidades ul{
+    list-style: none;
+    padding-left: 0;
+}
